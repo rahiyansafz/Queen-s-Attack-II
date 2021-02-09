@@ -6,7 +6,7 @@ A queen is standing on an n x n chessboard. The chess board’s rows are numbere
 The queen is standing at position (rq, cq). In a single move, she can attack any square in any of the eight directions (left, right, up, down, and the four diagonals). In the diagram below, the green circles denote all the cells the queen can attack from (4, 4):
 
 
-![qa1](https://user-images.githubusercontent.com/70625091/107354836-db620580-6af8-11eb-9a91-c626a5f695a5.png)
+![qa1](https://user-images.githubusercontent.com/70625091/107354836-db620580-6af8-11eb-9a91-c626a5f695a5.png) 
 
 
 There are obstacles on the chessboard, each preventing the queen from attacking any square beyond it on that path. For example, an obstacle at location (3, 5) in the diagram above prevents the queen from attacking cells (3, 5), (2, 6), and (1, 7):
